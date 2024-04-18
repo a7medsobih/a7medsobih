@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development
 - 🌱🌱🌱
 - 💞️ I’m looking to learn new thing every day
-- 📫 You can reach out to me through ahmedsobih7@gmail.com or connect with me on www.linkedin.com/in/ahmed-sobih-3a3660301
+- 📫 You can reach out to me through ahmedsobih7@gmail.com or connect with me on www.linkedin.com/in/ahmedsobih
 - ⚡ Fun fact: I'm a coffee aficionado
 
 <!---
