@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @a7medsobih
-- 👀 I’m interested in fullstack development
-- 🌱🌱🌱
-- 💞️ I’m looking to learn new thing every day
-- 📫 You can reach out to me through ahmedsobih7@gmail.com or connect with me on www.linkedin.com/in/ahmedsobih
-- ⚡ Fun fact: I'm a coffee aficionado
+# 👋 Hi, I’m Ahmed Sobih (@a7medsobih)
 
-<!---
-a7medsobih/a7medsobih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Front-End Developer & Web Designer**, focused on building modern and responsive websites.
+
+---
+
+## 📫 Let's connect:
+- 📧 Email: ahmedsobih7@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/ahmedsobih](https://www.linkedin.com/in/ahmedsobih)  
+
+---
+
+⚡ **Fun fact:** I’m a coffee lover who enjoys working in quiet spaces with chill music 🎧
+
+> 💬 *"Always learning. Always building."*
