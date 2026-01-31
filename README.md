@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/ahmedsobih" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="38" />
   </a>
-  <a href="https://wa.me/200107320732" target="_blank">
+  <a href="https://wa.me/2001017320732" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="38" />
   </a>
   <a href="mailto:ahmedsobih7@gmail.com">
