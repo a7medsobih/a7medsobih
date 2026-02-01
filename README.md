@@ -27,7 +27,7 @@
 
 
 ## 🤝 Let’s Connect
-<p align="center"><a href="https://www.linkedin.com/in/ahmedsobih" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="38" /></a><a href="https://wa.me/2001017320732" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="38" /></a><a href="mailto:ahmedsobih7@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="38" /></a><a href="https://ahmedsobih-portfolio.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="38" /></a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/ahmedsobih" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="38" /></a> <a href="https://wa.me/2001017320732" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="38" /></a> <a href="mailto:ahmedsobih7@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="38" /></a> <a href="https://ahmedsobih-portfolio.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="38" /></a></p>
 
 ---
 
