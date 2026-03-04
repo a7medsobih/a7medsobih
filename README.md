@@ -1,13 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ahmed%20Sobih&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descSize=18&descAlignY=55"/>
 
 ## 💫 About Me
+👨‍💻 **Front-End Developer | Web Designer**
+
 🎓 **Computer Science Postgraduate – Cairo University**  
 
 ⚛️ **React-focused Frontend Developer building scalable, high-performance web applications**  
 
 🤝 **Open to frontend roles, freelance work, and collaborating with backend teams**  
 
-📍 **Egypt-based | Open to remote opportunities**  
+📍 **Egypt-based 
 
 ⚡ **Coffee + quiet place + music = perfect coding mode 🎧☕**
 
