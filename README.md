@@ -1,4 +1,4 @@
-[<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ahmed%20Sobih&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descSize=18&descAlignY=55"/>](https://capsule-render.vercel.app/api?type=wave&height=250&color=gradient&text=Ahmed%20Sobih&section=header&textBg=false&fontAlign=50&fontAlignY=30&desc=Full-Stack%20Developer&descAlignY=50&reversal=false)
+https://capsule-render.vercel.app/api?type=wave&height=250&color=gradient&text=Ahmed%20Sobih&section=header&textBg=false&fontAlign=50&fontAlignY=30&desc=Full-Stack%20Developer&descAlignY=50&reversal=false
 
 ## 💫 About Me
 👨‍💻 **Full-Stack Developer | MERN & MEAN Stack Development**
