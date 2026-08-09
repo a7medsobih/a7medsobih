@@ -1,13 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ahmed%20Sobih&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descSize=18&descAlignY=55"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ahmed%20Sobih&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descSize=18&descAlignY=55"/>](https://capsule-render.vercel.app/api?type=wave&height=250&color=gradient&text=Ahmed%20Sobih&section=header&textBg=false&fontAlign=50&fontAlignY=30&desc=Full-Stack%20Developer&descAlignY=50&reversal=false)
 
 ## 💫 About Me
-👨‍💻 **Front-End Developer | Web Designer**
+👨‍💻 **Full-Stack Developer | MERN & MEAN Stack Development**
 
-🎓 **Computer Science Postgraduate – Cairo University**  
+🎓 Computer Science Postgraduate – Cairo University
 
-⚛️ **React-focused Frontend Developer building scalable, high-performance web applications**  
+⚛️ Frontend: React.js, Next.js, Angular, JavaScript, TypeScript
 
-🤝 **Open to frontend roles, freelance work, and collaborating with backend teams**  
+⚙️ Backend: Node.js, Express.js, REST APIs
+
+🗄️ Database: MongoDB, MySQL
+
+🎨 UI & Styling: Tailwind CSS, Bootstrap
+
+🤝 Collaboration: Git, GitHub, API Integration, Team-based Development
 
 📍 **Egypt-based 
 
@@ -17,14 +23,19 @@
 ## 🛠 Tech Stack I Work With
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" />
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" />
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" alt="React" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="48" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" alt="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" alt="Tailwind CSS" />
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="48" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />
 </p>
 
 
@@ -33,5 +44,9 @@
 
 ---
 
-💡 Open to Frontend / React roles, internships, and freelance projects  
-If you’re looking for someone who cares about quality, clarity, and real impact — let’s talk.
+🤝 I'm open to Full-Stack / Frontend opportunities, freelance projects, and collaborations. 
+Building scalable web applications with modern frontend and backend technologies, clean architecture, and maintainable code.
+
+---
+
+💡 Build. Learn. Improve. Repeat.
